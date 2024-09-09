@@ -1,5 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace repasodb.Data;
@@ -12,4 +11,6 @@ public class ApplicationDbContext : IdentityDbContext
     }
 
     public DbSet<repasodb.Models.Cliente> DataCliente { get;set;}
+
+    public DbSet<repasodb.Models.Contacto> DataContacto { get;set;}
 }
