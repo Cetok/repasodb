@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("repasodb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+137b9e4348bfe2cd793f20da2a0b1263110c51a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11a9ea8a2e53c84fa522ae664055b0b3d6754a28")]
 [assembly: System.Reflection.AssemblyProductAttribute("repasodb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("repasodb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
